@@ -1,0 +1,15 @@
+.env
+data/
+models/
+*.joblib
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.xlsx
+*.xls
+*.csv
+!samples/*.xlsx
+login_timeout.png
+cookie_login_failed.png
+scraping_error.png
